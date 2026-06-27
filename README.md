@@ -66,12 +66,6 @@ SketchUp a été préféré pour sa simplicité et sa prise en main rapide (vs B
 3. Ouvrir le dossier du projet avec **Unity Hub**, en utilisant la version **2021.2.1f1** (ou une version compatible plus récente).
 4. Laisser Unity réimporter les assets (peut prendre quelques minutes au premier lancement).
 
-## 👥 Auteurs
-
-- **Oussama REMLI**
-- **Saadia ACHAKA**
-
-Encadré par **Mr Mohamed ELMAZOUD**
 
 ## 📄 Rapport complet
 
