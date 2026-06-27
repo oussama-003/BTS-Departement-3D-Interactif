@@ -16,6 +16,11 @@ Le projet se décompose en trois grandes étapes :
 
 Une vidéo de démonstration du résultat final est disponible ici : **[Lien à ajouter]**
 
+## ▶️ Exécutable de test
+
+L'exécutable pour tester le projet est disponible sur itch.io :
+**https://oussamaremli03.itch.io/bts-al-idrissi-interactif-en-3d**
+
 ## 🛠️ Technologies utilisées
 
 | Outil | Rôle |
