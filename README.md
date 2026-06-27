@@ -14,7 +14,7 @@ Le projet se décompose en trois grandes étapes :
 
 ## 🎥 Démonstration vidéo
 
-Une vidéo de démonstration du résultat final est disponible ici : **[Lien à ajouter]**
+Une vidéo de démonstration du résultat final est disponible ici : **https://drive.google.com/file/d/17edUk67yZgYfM9iMUMfZ_x4Evv0DsGSp/view?usp=sharing**
 
 ## ▶️ Exécutable de test
 
