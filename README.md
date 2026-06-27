@@ -73,4 +73,4 @@ Le rapport PFE détaillé (présentation du projet, étude comparative des outil
 
 ## 📜 Licence
 
-Projet académique réalisé dans le cadre du BTS Systèmes et Réseaux Informatiques. Libre de consultation à but pédagogique.
+Ce projet est distribué sous la **Apache License 2.0**. Voir le fichier [LICENSE](./LICENSE) pour plus de détails.
